@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Soul Soft</string>
+    <string name="email">Email</string>
+    <string name="senha">Senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="criar_conta">Criar Conta</string>
+    <string name="recuperar_conta">Recuperar Conta</string>
+</resources>
